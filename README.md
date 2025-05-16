@@ -19,9 +19,9 @@ This is an iOS app that performs **sentiment analysis on financial news**. Users
 
 ## 📷 Screenshot
 <div style="display:flex; gap:10px;" >
-  <img src= "https://github.com/user-attachments/assets/f5d27995-b0d0-4d6c-8041-3a6b143cc40e" alt="img1" width="200px"/>
-  <img src= "https://github.com/user-attachments/assets/91e87ebc-0c50-4e08-b3fc-189457061ef9" alt="img1" width="200px"/>
-  <img src= "https://github.com/user-attachments/assets/9a197837-4753-4eaf-b3e8-189d9b04dfa2" alt="img1" width="200px"/>
+  <img src= "https://github.com/user-attachments/assets/f5d27995-b0d0-4d6c-8041-3a6b143cc40e" alt="img1" width="300px"/>
+  <img src= "https://github.com/user-attachments/assets/91e87ebc-0c50-4e08-b3fc-189457061ef9" alt="img1" width="300px"/>
+  <img src= "https://github.com/user-attachments/assets/9a197837-4753-4eaf-b3e8-189d9b04dfa2" alt="img1" width="300px"/>
 </div>
 
 ---
